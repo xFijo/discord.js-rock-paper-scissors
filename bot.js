@@ -1,4 +1,6 @@
-   if (command === "rps") {
+// for not in command handler
+
+if (command === "rps") {
         const options = [
             "rock :shell: ",
             "paper :newspaper2:",
