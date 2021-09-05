@@ -7,4 +7,3 @@ const options = [
      ]
      const option = options[Math.floor(Math.random() * options.length)]
      message.channel.send(`You got ${option}`);
-    };
